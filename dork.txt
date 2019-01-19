@@ -1,0 +1,2 @@
+wp-install.php
+index.php?id=
